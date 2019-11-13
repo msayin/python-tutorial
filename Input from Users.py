@@ -1,0 +1,5 @@
+print("Getting Input From Users Start from 48:25 minute")
+name = input("Enter your name:")
+age = input("Enter your age:")
+country = input ("Enter your Country:")
+print("Hello" + name +"! You are " + age + " and you are from Turkey")
